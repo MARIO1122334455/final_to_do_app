@@ -11,13 +11,16 @@ class Mythemedata {
       primaryColor: Appcolors.primaryColor,
       scaffoldBackgroundColor: Appcolors.backgroundLightColor,
       appBarTheme: const AppBarTheme(
+        
         elevation: 0,
         backgroundColor: Appcolors.primaryColor,
       ),
       floatingActionButtonTheme: const FloatingActionButtonThemeData(
+         
           shape: StadiumBorder(
               side: BorderSide(color: Appcolors.whiteColor, width: 5))),
       bottomNavigationBarTheme: const BottomNavigationBarThemeData(
+        
           backgroundColor: Colors.transparent,
           elevation: 0,
           selectedItemColor: Appcolors.primaryColor,

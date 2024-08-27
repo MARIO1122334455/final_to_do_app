@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270232624268",
+    "project_id": "finaltodoapp-a0de7",
+    "storage_bucket": "finaltodoapp-a0de7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270232624268:android:e0ba6f666fa43cb94d2fa9",
+        "android_client_info": {
+          "package_name": "com.example.final_to_do_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB91sslB0DOgbVMVXHHQBfkuP-Rtpls6DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
